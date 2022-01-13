@@ -1,20 +1,24 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Openbox](https://openbox.org)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Openbox](https://openbox.org).
 
 ![Screenshot](./screenshot.png)
 
-## Install
+## [Install](INSTALL.md)
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Follow these [instructions](INSTALL.md)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/jechasteen/dracula-openbox/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Jonathan Chasteen](https://github.com/jechasteen.png?size=100)](https://github.com/jechasteen) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Jonathan Chasteen](https://github.com/jechasteen) |
+
+## Acknowledgments
+
+This theme was created using [fikriomar16's obtgen script](https://github.com/fikriomar16/obtgen) as a starting point.
 
 ## License
 
